@@ -140,8 +140,6 @@ void mouseClicked(){
   exit();
 }
 
-  
-
 void draw() {
   background(0);
 
@@ -172,7 +170,6 @@ fill(156, 103, 250);
 text("Press n to proceed to the game. . . . .", 350, 675); // informs the player of a function of key 'n'
  
 }  
-  
   
   if (state == "START") {                            // everything under the if statement will run when the state is "START" 
     background(0);
@@ -220,7 +217,6 @@ if (mouseX > 585 && mouseX < 585 + rectStartWidth1 && mouseY > 480 && mouseY < 4
     
 }
   }
-
 
     if (state == "PLAY") {       //everything under the if statement will run when the state is "PLAY" 
     //draw both paddles
