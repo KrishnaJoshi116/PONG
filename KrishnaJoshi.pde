@@ -4,10 +4,9 @@
  Name of Program: PONG
  Description: An amazing multiplayer game called PONG. Once the spacebar is pressed, the ball moves around the screen, bouncing off the boundaries. Each player has a paddle that they control by certain keys on the keyboard. 
  They have to try to avoid letting the ball pass their paddle. If it does, the opposite player get's a point. The player to get a score of 5 points first wins. 
- Teacher's Name: Ms. Clayton
- Course Code: ICS201-02
  Date Started: May 10, 2019
- Date Last Updated: June 6, 2019
+ Date Finished: June 6, 2019
+ Date Last Updated: September 12, 2021
  */
  
 //paddle coordinates
